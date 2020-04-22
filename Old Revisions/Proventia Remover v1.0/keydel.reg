@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SMS\Mobile Client\Software Distribution\Execution History\System\RV000057]
+[-HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Eventlog\Application\RapApp]
+[-HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Eventlog\Applicatoin\VPatch]
+[-HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Services\Eventlog\Application\RapApp]
+[-HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Services\Eventlog\Application\VPatch]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Eventlog\Application\RapApp]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Eventlog\Application\VPatch]
