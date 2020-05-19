@@ -1,9 +1,8 @@
 @echo off
 cls
 echo Proventia Removal Tool
-echo (Only for use on CWOPA Windows XP computers)
 echo.
-echo Please enter your CWOPA Login name
+echo Please enter your login name
 set /p username=
 echo.
 echo.
@@ -18,6 +17,5 @@ echo Removing registry entries...
 regedit /s keydel.reg
 echo.
 echo If no error messages appear above, the removal was successful.
-echo Thank you for using the CWOPA Proventia Removal Tool! --Selanda
 echo.
 pause
